@@ -1,0 +1,38 @@
+- name: Kamal Vaid
+  role: Organizer
+  img: images/teams/kamal.jpg
+  descs:
+    - Technology Lead at Infosys
+    - GDE - Google Assistant
+    - Associate Android Developer
+  social:
+    twitter: https://www.example.com
+    github: https://www.example.com
+    linkedin: https://www.example.com
+    medium : https://medium.com
+
+- name: Ayush Sharma
+  role: Core Team-Lead
+  img: images/teams/Ayush.jpg
+  descs:
+    - Web developer
+    - Actions On Google
+    - Community mentor
+  social:
+    twitter: https://www.example.com
+    github: https://www.example.com
+    linkedin: https://www.example.com
+    
+
+- name: Yatin Nayyar
+  role: Core Team- Lead 
+  img: images/teams/Yatin.jpg
+  descs:
+    - Mobile developer
+    - Cloud enthusiast
+    - Community mentor
+  social:
+    twitter: https://www.example.com
+    linkedin: https://www.example.com
+
+    

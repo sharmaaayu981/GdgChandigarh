@@ -1,0 +1,14 @@
+- title: 'Google Developers Group' # for <title> tag
+  description: 'Google Developers Group(GDG) is a Google Developers program for university students to acquire technical skills and solve problems' #Meta description
+  university: Chandigarh
+  lang: 'en'
+  register:  'https://www.meetup.com/GDG-Chandigarh/' 
+  calendar: '' # optional
+  mail: 'gdgforchd@gmail.com' 
+  social:
+    facebook: 'https://www.facebook.com//gdgchd'
+    github: 'https://github.com'
+    linkedin: 'https://www.linkedin.com//company//gdg-chandigarh'
+    twitter: 'https://twitter.com//ChandigarhGdg'
+    Instagram: 'https://www.instagram.com//gdgchandigarh' 
+    youtube: 'https://www.youtube.com//channel/UCiolt-yG5sncXJlb1G0KI7g'
